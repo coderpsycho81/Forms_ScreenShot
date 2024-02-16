@@ -1,0 +1,11 @@
+C:\Users\coderpsycho\Desktop\screenShot\screenShot\bin\Debug\screenShot.exe.config
+C:\Users\coderpsycho\Desktop\screenShot\screenShot\bin\Debug\screenShot.exe
+C:\Users\coderpsycho\Desktop\screenShot\screenShot\bin\Debug\screenShot.pdb
+C:\Users\coderpsycho\Desktop\screenShot\screenShot\obj\Debug\screenShot.csproj.AssemblyReference.cache
+C:\Users\coderpsycho\Desktop\screenShot\screenShot\obj\Debug\screenShot.Form1.resources
+C:\Users\coderpsycho\Desktop\screenShot\screenShot\obj\Debug\screenShot.Properties.Resources.resources
+C:\Users\coderpsycho\Desktop\screenShot\screenShot\obj\Debug\screenShot.csproj.GenerateResource.cache
+C:\Users\coderpsycho\Desktop\screenShot\screenShot\obj\Debug\screenShot.csproj.CoreCompileInputs.cache
+C:\Users\coderpsycho\Desktop\screenShot\screenShot\obj\Debug\screenShot.exe
+C:\Users\coderpsycho\Desktop\screenShot\screenShot\obj\Debug\screenShot.pdb
+C:\Users\coderpsycho\Desktop\screenShot\screenShot\obj\Debug\screenShot.Form2.resources
